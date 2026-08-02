@@ -2,7 +2,7 @@
 This project presents an interactive Power BI dashboard built to analyze the 2026 Electric Vehicle (EV) Market dataset. The dashboard provides valuable insights into EV brands, pricing, battery performance, driving range, and other key metrics, helping users understand market trends through interactive visualizations.
 
 ## view dataset
-<a herf="https://github.com/Sidduvinayak/2026-Electric-Vehicle-EV-market-Dashboard/blob/main/ev_market_2026.csv"> Dataset<a>
+<a herf="https://github.com/Sidduvinayak/2026-Electric-Vehicle-EV-market-Dashboard/blob/main/ev_market_2026.csv"> Dataset <a>
 
 
 # ⚡ EV Vehicle Market Dashboard - Power BI
